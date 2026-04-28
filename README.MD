@@ -22,20 +22,20 @@ A high-performance Python-based utility designed to eliminate digital clutter by
 ## Installation & Setup
 
 ### 1. Clone the Repository
-\`\`\`bash
+\`\`\`
 git clone https://github.com/JeanMrc/file-organizer-bot.git
 cd file-organizer-bot
 \`\`\`
 
 ### 2. Configure Environment
-\`\`\`bash
+\`\`\`
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 \`\`\`
 
 ### 3. Execution
-\`\`\`bash
+\`\`\`
 python organizer.py
 \`\`\`
 
