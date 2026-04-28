@@ -14,7 +14,7 @@ A high-performance Python-based utility designed to eliminate digital clutter by
 ---
 
 ## Built With
-* **Python 3.x**
+* **Python**
 * **Watchdog:** Cross-platform file system event monitoring.
 
 ---
